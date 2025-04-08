@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "İlham Əliyev",
+        "constituency": "1 saylı Yasamal birinci",
+        "party": "YAP",
+        "birthDate": "24 dekabr 1961",
+        "education": "Moskva Dövlət Beynəlxalq Münasibətlər İnstitutu",
+        "profession": "Siyasətçi",
+        "bio": "Azərbaycan Respublikasının Prezidenti, Yeni Azərbaycan Partiyasının sədri.",
+        "projects": "İctimai-siyasi islahatlar, iqtisadi inkişaf, sosial proqramlar.",
+        "image": "deputy1.jpg",
+        "social": {
+            "facebook": "https://facebook.com/ilham.aliev",
+            "twitter": "https://twitter.com/azpresident"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Arif Rəhimli",
+        "constituency": "12 saylı Nəsimi ikinci",
+        "party": "Müsavat",
+        "birthDate": "15 yanvar 1964",
+        "education": "Bakı Dövlət Universiteti",
+        "profession": "Hüquqşünas",
+        "bio": "Müsavat Partiyasının sədri, insan hüquqları üzrə fəal.",
+        "projects": "Konstitusiya islahatları, insan hüquqlarının müdafiəsi.",
+        "image": "deputy2.jpg",
+        "social": {
+            "twitter": "https://twitter.com/arif_rahimli"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Qüdrət Həsənquliyev",
+        "constituency": "30 saylı Xətai üçüncü",
+        "party": "AXCP",
+        "birthDate": "7 aprel 1946",
+        "education": "Azərbaycan Tibb Universiteti",
+        "profession": "Həkim",
+        "bio": "Azərbaycan Xalq Cəbhəsi Partiyasının üzvü, ictimai xadim.",
+        "projects": "Səhiyyə sisteminin təkmilləşdirilməsi.",
+        "image": "deputy3.jpg"
+    }
+]
